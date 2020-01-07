@@ -1,0 +1,3 @@
+n MS Windows, devices like Printers, CD-ROM, and hard drives are represented as drive letters like G: H:. In Linux, there are represented as files.For example, if the first SATA hard drive had three primary partitions, they would be named and numbered as /dev/sda1, /dev/sda2 and /dev/sda3.
+
+Note: All device files reside in the directory /dev/
