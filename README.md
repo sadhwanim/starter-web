@@ -7,4 +7,4 @@ This repository is for showing how Git and GitHub work
 Sample website with plenty of files for demos Simple edit
 
 ## Deployment
-Some doin som rebas
+Some doin som rebas yo
